@@ -50,7 +50,7 @@ title: Sprint Planning
 - 2 Boa Interação
 - 3 Dedicação e interreses de todos 
 
-![pontos positivos](../assets/Sprints/S1-positivos.png)
+
 
 #### Pontos Negativos
 
@@ -59,18 +59,18 @@ title: Sprint Planning
 - 3 Dificuldade de acesso ao site e mexer em repositorio
 
 
-![pontos negativos](../assets/Sprints/S1-negativos.png)
+
 
 #### O que podemos melhorar?
 
 - Ter mais foco na reuniões para evitar o desperdício de tempo.
 - Conseguir auxiliar algum dia que todos consigam ingressar na reunião 
-- Podemos utilizar algo ferramenta de timebox para maior efetividade nas reuniões, sugestão: [](https://timebox.cedrotech.com/)
+- Podemos utilizar algo ferramenta de timebox para maior efetividade nas reuniões, sugestão: [])
 
 #### Ferramentas utilizadas
 
-- Reunião: [Hangouts](https://hangouts.google.com/)
-- Colheita dos pontos: [Mentimeter](https://www.mentimeter.com/)
+- Reunião: Discord
+
 
 # Sprint II 
 
