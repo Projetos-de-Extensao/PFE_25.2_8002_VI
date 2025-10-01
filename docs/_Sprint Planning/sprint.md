@@ -31,7 +31,7 @@ title: Sprint Planning
 | [Mapas Mentais](https://github.com/xxx/xxx.md) |Rodrigo Mourão|
 | [Brainstorming](https://github.com/XXXx) |Lucas Holanda e Gabriel Aguiar|
 |[Entrevistas](https://github.com/xxx/xxx.md) |Todos|
-|[Prototipação.](https://github.com/xxx/xxx.md) |Lucas Carvalho|
+|[Prototipação.](https://github.com/xxx/xxx.md) |Lucas Carvalho e Rodrigo Mourão|
 
 ### Sprint Retrospective/Review Meeting
 
