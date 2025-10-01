@@ -1,6 +1,6 @@
 # Projeto Front-End
 
-## TEMA
+## TEM
 Projeto pra auxiliar o CASA ( monitoria IBMEC )
 
 ## Screenshots
