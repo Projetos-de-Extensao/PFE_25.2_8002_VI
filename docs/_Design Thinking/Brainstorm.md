@@ -97,26 +97,7 @@ Ao chegar proximo da aula, surge um aviso em seu e-mail, avisando voce de sua au
  
 
  
-### Requisitos elicitados
- 
-|ID|Descrição|
-|----|-------------|
-|BS01| O cliente...|
-|BS02| O cliente...|
-|BS03| O cliente...|
-|BS04| O cliente...|
-|BS05| O cliente...|
-|BS06| O cliente...|
-|BS07| O cliente...|
-|BS08| O cliente...|
-|BS09| O cliente...|
-|BS10| O produto...|
-|BS11| O produto...|
-|BS12| O produto...|
-|BS13| O produto...|
-|BS14| O produto...|
-|BS15| O produto...|
- 
+
 ## Conclusão
 <p align = "justify">
 O brainstorm realizado permitiu estruturar de forma clara e criativa como funcionará o aplicativo de monitoria do Ibmec. Ao longo da atividade, conseguimos levantar ideias sobre os objetivos principais da aplicação, o processo de cadastro de alunos, o fluxo de agendamento de aulas, além de mapear as informações essenciais tanto para monitores quanto para alunos.
@@ -124,5 +105,6 @@ O brainstorm realizado permitiu estruturar de forma clara e criativa como funcio
 
  
  
+
 
 
