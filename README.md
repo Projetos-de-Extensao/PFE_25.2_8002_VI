@@ -1,7 +1,7 @@
 # Projeto Front-End
 
-## Sobre 
-Disciplina que planeja o desenvolvimento de um Front-End a partir de uma demanda externa. 
+## TEMA
+Projeto pra auxiliar o CASA ( monitoria IBMEC )
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
