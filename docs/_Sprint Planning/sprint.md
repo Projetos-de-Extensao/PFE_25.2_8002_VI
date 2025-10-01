@@ -46,7 +46,7 @@ title: Sprint Planning
 
 #### Pontos Positivos
 
-- 1 Reuniões Afetivas
+- 1 Reuniões Efetivas
 - 2 Boa Interação
 - 3 Dedicação e interreses de todos 
 
@@ -56,6 +56,7 @@ title: Sprint Planning
 
 - 1 Conflito de horario, poucas vezes conseguimos reunir todos em uma call 
 - 2 Má divisão de tarefas na primeira semana
+- 3 Dificuldade de acesso ao site e mexer em repositorio
 
 
 ![pontos negativos](../assets/Sprints/S1-negativos.png)
@@ -63,7 +64,7 @@ title: Sprint Planning
 #### O que podemos melhorar?
 
 - Ter mais foco na reuniões para evitar o desperdício de tempo.
-- A equipe deve ter mais autonomia em relação à falta de membros.
+- Conseguir auxiliar algum dia que todos consigam ingressar na reunião 
 - Podemos utilizar algo ferramenta de timebox para maior efetividade nas reuniões, sugestão: [](https://timebox.cedrotech.com/)
 
 #### Ferramentas utilizadas
