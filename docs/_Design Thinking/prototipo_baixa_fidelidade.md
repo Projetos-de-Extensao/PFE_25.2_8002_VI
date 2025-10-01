@@ -1,11 +1,11 @@
----rsrs
+---
 id: prototipo
 title: Protótipo
 ---
 ## Introdução
 
 <p align = "justify">
-A construção do protótipo de alta fidelidade auxilia a equipe de desenvolvimento a encontrar um nível de detalhes abrangentes, extrair funcionalidades, testar usabilidade, e também fornece uma base para o gerenciamento do projeto pois com o protótipo é possível realizar estimativas de quanto tempo será necessário desempenhar em cada funcionalidade.
+A construção do protótipo de baixa fidelidade auxilia a equipe de desenvolvimento a encontrar um nível de detalhes abrangentes, extrair funcionalidades, testar usabilidade, e também fornece uma base para o gerenciamento do projeto pois com o protótipo é possível realizar estimativas de quanto tempo será necessário desempenhar em cada funcionalidade.
 </p>
 
 ## Metodologia
@@ -19,131 +19,142 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 ### Versão 1.0
 
 ### Tela Login
+Tela Login
++--------------------------------------+
+| LOGIN |
++--------------------------------------+
+[Logo do App]
+Usuário: [___________]
+Senha:  [___________]
+(Entrar) [ Botão ]
+[Esqueceu a senha?]
 
-Prototipo 1
-![Alt text](https://example.com/image.jpg "Image Title")
+--------------------------------------
+[Cadastrar-se]
++--------------------------------------+
 
-### Tela Cadastro 1
+Tela Cadastro 1
++--------------------------------------+
+| CADASTRO (1/2) |
++--------------------------------------+
+| Nome: [****************]             |
+| E-mail: [****************]           |
+| Senha: [****************]            |
+| Confirmar: [****************]        |
+|                                      |
+| (Próximo) [ Botão ]                  |
++--------------------------------------+
 
-[![Prototipo 2]
+Tela Cadastro 2
++--------------------------------------+
+| CADASTRO (2/2) |
++--------------------------------------+
+| Data Nasc.: [**/**/****]             |
+| Telefone:  [(__) ****-****]          |
+| Curso: [___________________]         |
+| Tipo de usuário: ( ) Aluno ( ) Monitor|
+|                 ( ) Professor ( ) Coord.|
+|                                      |
+| (Concluir) [ Botão ]                 |
++--------------------------------------+
 
-### Tela Cadastro 2
+Tela Esqueceu Senha
++--------------------------------------+
+| ESQUECEU A SENHA? |
++--------------------------------------+
+Digite seu e-mail para redefinir:
+[__________________________]
 
-[![Prototipo 3]
+(Enviar link) [ Botão ]
++--------------------------------------+
 
-### Tela Esqueceu Senha
+Tela Feed (Monitorias disponíveis)
++--------------------------------------+
+| FEED DE MONITORIAS |
++--------------------------------------+
+[Barra superior com logo + menu]
 
-[![Prototipo 4]
+Card Monitoria 1:
+Disciplina: Cálculo I
+Monitor: João Silva
+Horário: Seg/Qua 14h
+Botão: [Inscrever-se]
 
-### Tela do Feed
+--------------------------------------
+Card Monitoria 2:
+Disciplina: Programação
+Monitor: Ana Souza
+Horário: Ter/Qui 16h
+Botão: [Inscrever-se]
 
-[![Prototipo 5]
+--------------------------------------
+(...)
 
-### Tela Feed com configurações
++--------------------------------------+
 
-[![Prototipo 6]
+Tela Feed + Configurações
++--------------------------------------+
+| FEED + MENU CONFIGURAÇÕES |
++--------------------------------------+
+[Ícone Config ⚙️ no canto superior]
+Listagem das monitorias (igual ao Feed)
++--------------------------------------+
 
-### Tela Perfil
+Tela Perfil
++--------------------------------------+
+| PERFIL |
++--------------------------------------+
+[Foto/Avatar]
+Nome: Fulano da Silva
+E-mail: fulano@email.com
+Tipo de usuário: Aluno
 
-[![Prototipo 7]
+(Editar perfil) [ Botão ]
+(Minhas monitorias) [ Botão ]
+(Sair) [ Botão ]
++--------------------------------------+
 
-### Tela Cadastrar torneio 1
+Tela Cadastrar Monitoria (para monitores/professores)
++--------------------------------------+
+| CADASTRAR MONITORIA (1/2) |
++--------------------------------------+
+Disciplina: [***********]
+Descrição:  [***********]
 
-[![Prototipo 8]
-### Tela Cadastrar torneio 2
+(Próximo) [ Botão ]
++--------------------------------------+
 
-[![Prototipo 9]
++--------------------------------------+
+| CADASTRAR MONITORIA (2/2) |
++--------------------------------------+
+Horário: [Dia/Semana + Hora]
+Local:   [Sala/Online Link]
 
-### Tela Cadastrar torneio 3
+(Concluir) [ Botão ]
++--------------------------------------+
 
-[![Prototipo 10]
+Tela Minhas Monitorias
++--------------------------------------+
+| MINHAS MONITORIAS |
++--------------------------------------+
+[Listagem das monitorias em que:
+- o aluno está inscrito
+- o monitor cadastrou
+com botões editar/excluir]
++--------------------------------------+
 
-### Tela Cadastrar torneio 4
+  Tela Inscrição em Monitoria
++--------------------------------------+
+| INSCREVER-SE NA MONITORIA |
++--------------------------------------+
+Disciplina: Cálculo I
+Monitor: João Silva
+Horário: Seg/Qua 14h
 
-[![Prototipo 11]
+Nome do aluno: [___________]
 
-### Tela com meus torneios
+(Confirmar inscrição) [ Botão ]
++--------------------------------------+
 
-[![Prototipo 12]
 
-### Tela de inscrição em torneio
-
-[![Prototipo 13]
-
-<p align = "justify">
-Na primeira versão do protótipo utilizamos a ferramenta <a href="https://material.io/resources/color/#!/?view.left=0&view.right=0">Material Design Color Tool</a>  para auxiliar na criação da paleta de cores do aplicativo, definimos as cores base do aplicativo mas as cores definidas para as telas 12 e 13 ainda não foram decididas.
-</p>
-
-### Versão 2.0
-
-### Tela Login
-
-[![Prototipo 1]
-
-### Tela Cadastro
-
-[![Prototipo 2]
-
-### Tela Esqueceu Senha
-
-[![Prototipo 3]
-
-### Tela Perfil
-
-[![Prototipo 4]
-
-### Tela do Feed
-
-[![Prototipo 5]
-
-### Tela Cadastrar em um torneio
-
-[![Prototipo 6]
-### Tela Cadastrar torneio
-
-[![Prototipo 7]
-
-### Tela Cadastrar torneio 2
-
-[![Prototipo 8]
-
-### Tela dos meus torneios
-
-[![Prototipo 9]
-
-### Tela das chaves do torneio
-
-[![Prototipo 10]
-
-### Tela das estatíscicas
-
-[![Prototipo 11]
-
-### Tela de adicionar resultado das partidas
-
-[![Prototipo 12]
-
-link para o `<a href="https://www.figma.com/file/karoCnQtvMXWHEwdMuhQs0/Prototipo?node-id=0%3A1">`Protótipo `</a>`
-
-## Conclusão
-
-<p align = "justify">
-A partir da elaboração do protótipo foi possível ter uma noção inicial da interface do usuário, definindo fluxo, paleta de cores, botões, app bars e diversas outras funcionalidades
-</p>
-
-## Referências
-
-> Material Design Color Tool. Disponível em:  https://material.io/resources/color/#!/?view.left=0&view.right=0
-
-> PMI. Um guia do conhecimento em gerenciamento de projetos. Guia PMBOK® 5a. ed. EUA: Project Management Institute, 2013.
-
-> Ferramenta Figma. Disponível em https://www.figma.com
-
-## Autor(es)
-
-| Data     | Versão | Descrição                            | Autor(es)                                                                            |
-| -------- | ------- | -------------------------------------- | ------------------------------------------------------------------------------------ |
-| 07/09/20 | 1.0     | Criação do documento                 | Lucas Alexandre e Matheus Estanislau                                                 |
-| 07/09/20 | 1.1     | Adicionado as imagens do protótipo    | Lucas Alexandre e Matheus Estanislau                                                 |
-| 07/09/20 | 1.2     | Adicionado conclusão e referências   | Lucas Alexandre e Matheus Estanislau                                                 |
-| 26/10/20 | 2.0     | Adicionada a versão 2.0 do protótipo | João Pedro, Lucas Alexandre, Matheus Estanislau, Moacir Mascarenha e Renan Cristyan |
+**Conclusão**: O aplicativo de acompanhamento de monitorias na faculdade estabelece uma base estrutural para o seu desenvolvimento. Ao priorizar a disposição intuitiva dos elementos, as funcionalidades essenciais e os fluxos de interação adaptados para os perfis de aluno, professor, monitor e coordenador, os requisitos fundamentais do sistema foram mapeados de maneira clara, lógica e funcional. As telas propostas, incluindo login, cadastro, feed de monitorias, perfil e gerenciamento de monitorias, refletem as necessidades específicas de cada tipo de usuário, promovendo uma experiência acessível e eficiente. A definição de permissões por função reforça a segurança e a organização, garantindo que o sistema atenda aos objetivos de facilitar a gestão e participação em monitorias acadêmicas.
