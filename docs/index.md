@@ -12,8 +12,6 @@ hide:
 
     ---
 
-    Arthur Riess Cunha,	Bernardo Cicchelli,	Caique Rechuan Meirelles, Felipe Maia, João Vitor Rodrigues Donda
-
     [:octicons-arrow-right-24: Repositório](https://github.com/Projetos-de-Extensao/PFE_25.2_8002_VI)
 
 </div>
