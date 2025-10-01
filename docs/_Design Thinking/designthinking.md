@@ -22,6 +22,9 @@ Facilite a comunicação entre monitores, professores, coordenadores e alunos.
 Gere indicadores para acompanhamento do programa de monitorias.
  **Público-Alvo**: Alunos, professores e a coordenação dos cursos. 
 
+
+---
+
 **Escopo**: 
 Desenvolvimento do front-end da aplicação web.
 Estruturação de três módulos principais: Monitor, Professor e aluno.
@@ -78,3 +81,4 @@ Método SCAMPER (Substituir, Combinar, Adaptar, Modificar, Propor outros usos, E
 - **Aprendizados**: O Design Thinking se mostrou essencial para alinhar expectativas e gerar uma solução centrada no usuário.
 
 ---
+
