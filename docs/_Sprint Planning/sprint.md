@@ -24,7 +24,7 @@ title: Sprint Planning
 |---|----|
 | Decidir o nome o projeto.|Todos|
 | Criar o repositório nos padrões (Organizar wiki).| Todos |
-| Criar issues no GitHub / ZenHub| João Pedro Samapaio |
+| Criar issues no GitHub / ZenHub| João Pedro Sampaio |
 | Estudar e escolher as metodologias.| Todos|
 | [Documento de visão](https://github.com/xxx/xxx.md) |João Pedro Sampaio e Lucas Carvalho|
 | Elaborar [5w2H](https://github.com/xxx/xxx.md) |Lucas Holanda e Gabriel Aguiar|
