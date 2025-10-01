@@ -22,77 +22,80 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 1. Qual o objetivo principal da aplicação?
  
 <p align = "justify">
-<b>XXXX</b> - Deve ser uma plataforma onde qualquer pessoa possa...
+<b>1</b> -  Deve ser uma plataforma onde qualquer pessoa possa encontrar, agendar e participar de monitorias oferecidas pelos alunos-monitores do Ibmec.
 </p>
  
-<b>ZZZ</b> - A plataforma deve fornece...
+<b>2</b> - A plataforma deve fornecer um ambiente centralizado e intuitivo para conectar alunos que precisam de apoio acadêmico com monitores disponíveis em diferentes disciplinas.
  
-<b>YYYY</b> - O objetivo da aplicação é....
+<b>3</b> -  O objetivo da aplicação é facilitar o acesso a monitorias, organizar os horários e materiais, e promover o aprendizado colaborativo entre alunos.
  
-<b>WWWW</b> - O principal objetivo da aplicação é a...
+<b>4</b> - O principal objetivo da aplicação é a melhoria da experiência de estudo, reduzindo a dificuldade de comunicação e marcação de encontros entre monitor e estudante.
  
-<b>KKKK</b> - A plataforma deve gerenciar...
+<b>5</b> -A plataforma deve gerenciar cadastro de monitores, agendamento de aulas, lista de presença, feedback dos alunos e materiais de apoio, garantindo organização e transparência..
 </p>
  
 ---
  
-### 2. Como será o processo para cadastrar um novo clientetorneio?
- 
+### 2. Como será o processo para cadastrar um novo aluno com interesses nas funções\aulas da monitoria?
 <p align = "justify">
-<b>XXXX</b> - O moderador deverá fazer login e...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>WWWW</b> - Com o usuário logado, ele deverá...
 
-<b>ZZZZ</b> - O cliente...
+ <b>1</b> - O aluno poderá criar uma conta com e-mail institucional, preencher informações básicas (nome, matrícula, curso) e selecionar as disciplinas/áreas de interesse.
  
-<b>KKK</b> - O cliente...
+<b>2</b> -  Após o login ele recebera um e-mail de confirmação (dentro de seu e-mail institucional da ibmec)
+ 
+<b>3</b> - Após a confirmação do aluno, ele tera acesso disponibilidade de aulas e tarefas oferecidas a monitoria, assim podendo escolher a de sua area de interesse
+
+
+ 
  
 ---
  
-### 3. Como será a forma de adicionar produtos?
+### 3. Como vai funcionar o sistema de agendamento de aulas da monitoria?
  
 <p align = "justify">
-<b>XXXX</b> - O cliente ao cadastrar...
-</p>
+
+ <b>1</b> -Seleção da disciplina - O aluno entra na plataforma e escolhe a disciplina ou área de estudo em que deseja ser atendido.
  
 <p align = "justify">
-<b>YYYYY</b> - O produto tem...
+<b>2</b> -  Lista de monitores disponíveis - O sistema mostra os monitores cadastrados para aquela disciplina, com informações como nome, horário disponível, formato (presencial ou online) e número de vagas.
 </p>
  
-<b>ZZZZ</b> - O produto....
+<b>3</b> - Escolha da sessão - O aluno escolhe o horário e o monitor que melhor se encaixam em sua rotina. Caso haja limite de vagas, o sistema exibe quantas ainda estão livres.
  
-<b>XXXX</b> - O produto....
+<b>4</b> - Confirmação do agendamento
+Após a escolha, o aluno confirma sua participação na monitoria. O sistema reserva a vaga e envia uma notificação por e-mail/app.
+
+<b>5</b>Integração com agenda pessoal - A aula é adicionada automaticamente à agenda do aluno dentro da plataforma, e pode também ser exportada para Google Calendar ou calendário do celular.
 
  
 ---
  
-### 4. Outras perguntas pertinentes ao contexto
+### 4. Informações que possam auxiliar os monitores no aplicativo
 
 <p align = "justify">
-<b>XXXX</b> - Com a localização...
+<b>1</b> - Agenda de monitorias - Visualização clara das próximas aulas agendadas, com datas, horários, local/formato (presencial ou online) e lista de alunos confirmados.
  
-<b>YYYY</b> - O cliente...
+<b>2</b> - Perfil dos alunos inscritos -Informações básicas como nome, curso, período e disciplinas de interesse, ajudando o monitor a entender melhor o público que vai atender.
  
-<b>ZZZ</b> - O cliente...
+<b>3</b> - Materiais de apoio - Espaço para organizar e disponibilizar slides, apostilas, exercícios resolvidos ou links úteis para os alunos antes/depois da monitoria.
+
+<b>4</b> - Ferramentas de comunicação - Canal integrado de mensagens ou notificações rápidas para avisar sobre mudanças de horário, enviar lembretes ou tirar dúvidas pontuais.
+
+<b>5</b> - Feedback e relatórios - Sistema de avaliação onde os alunos deixam feedback, além de estatísticas (quantidade de monitorias realizadas, número de alunos atendidos, taxas de presença).
  
 ---
  
-### 5. "Outras perguntas pertinentes ao contexto", Como seria a forma de adicionar do cliente adicionar os produtos ?
+### 5. Informações que possam auxiliar os alunos no aplicativo
 <p align = "justify">
-<b>XXX</b> - O cliente....
+<b>1</b> - Agenda de aulas de monitoria - Lista das próximas monitorias agendadas, com data, horário, formato (online/presencial) e localização/link de acesso.
+
+<b>2</b> - Materiais de estudo - Acesso a conteúdos compartilhados pelos monitores (apostilas, exercícios resolvidos, resumos, links externos).
+
+<b>3</b> - Notificações e lembretes - Alertas sobre aulas confirmadas, início próximo da monitoria, mudanças de horário ou abertura de novas vagas.
+
 </p>
  
-### 6. Quais informações seriam interessante para o cliente?
-<p align = "justify">
-   <b>XXX</b> - Informações...
-   
-   <b>ZZZZ</b> - O cliente usuário poderá acessar informações...
 
-   <b>WWWWs</b> - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios, locais e data das partidas.
-   
-</p>
  
 ### Requisitos elicitados
  
@@ -116,14 +119,9 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
  
 ## Conclusão
 <p align = "justify">
-Através da aplicação da técnica, foi possível elicitar alguns dos primeiros requisitos do projeto.
+O brainstorm realizado permitiu estruturar de forma clara e criativa como funcionará o aplicativo de monitoria do Ibmec. Ao longo da atividade, conseguimos levantar ideias sobre os objetivos principais da aplicação, o processo de cadastro de alunos, o fluxo de agendamento de aulas, além de mapear as informações essenciais tanto para monitores quanto para alunos.
 </p>
-## Referências Bibliográficas
- 
-> BARBOSA, S. D. J; DA SILVA, B. S. Interação humano-computador. Elsevier, 2010.
+
  
  
-## Autor(es)
-| Data | Versão | Descrição | Autor(es) |
-| -- | -- | -- | -- |
-| DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX, XXXX XXXX, YYY YYYY e ZZZ XXXX |
+
