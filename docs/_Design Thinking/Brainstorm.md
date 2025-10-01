@@ -60,12 +60,12 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 <b>2</b> -  Lista de monitores disponíveis - O sistema mostra os monitores cadastrados para aquela disciplina, com informações como nome, horário disponível, formato (presencial ou online) e número de vagas.
 </p>
  
-<b>3</b> - Escolha da sessão - O aluno escolhe o horário e o monitor que melhor se encaixam em sua rotina. Caso haja limite de vagas, o sistema exibe quantas ainda estão livres.
+<b>3</b> - Escolha da sessão - O aluno escolhe o horário ( nunca nos horarios de aula ) e dia que melhor se encaixam em sua rotina. Caso haja limite de vagas, o sistema exibe quantas ainda estão livres.
  
-<b>4</b> - Confirmação do agendamento
-Após a escolha, o aluno confirma sua participação na monitoria. O sistema reserva a vaga e envia uma notificação por e-mail/app.
+<b>4</b> - Aviso importante  - 
+Ao chegar proximo da aula, surge um aviso em seu e-mail, avisando voce de sua aula.Assim evitando perdas de aulas por distrações 
 
-<b>5</b>Integração com agenda pessoal - A aula é adicionada automaticamente à agenda do aluno dentro da plataforma, e pode também ser exportada para Google Calendar ou calendário do celular.
+
 
  
 ---
@@ -73,7 +73,7 @@ Após a escolha, o aluno confirma sua participação na monitoria. O sistema res
 ### 4. Informações que possam auxiliar os monitores no aplicativo
 
 <p align = "justify">
-<b>1</b> - Agenda de monitorias - Visualização clara das próximas aulas agendadas, com datas, horários, local/formato (presencial ou online) e lista de alunos confirmados.
+<b>1</b> - Agenda de monitorias - Visualização clara das próximas aulas agendadas, com datas, horários, local/formato (presencial ou online) e quantidade de alunos confirmados.
  
 <b>2</b> - Perfil dos alunos inscritos -Informações básicas como nome, curso, período e disciplinas de interesse, ajudando o monitor a entender melhor o público que vai atender.
  
@@ -81,7 +81,7 @@ Após a escolha, o aluno confirma sua participação na monitoria. O sistema res
 
 <b>4</b> - Ferramentas de comunicação - Canal integrado de mensagens ou notificações rápidas para avisar sobre mudanças de horário, enviar lembretes ou tirar dúvidas pontuais.
 
-<b>5</b> - Feedback e relatórios - Sistema de avaliação onde os alunos deixam feedback, além de estatísticas (quantidade de monitorias realizadas, número de alunos atendidos, taxas de presença).
+<b>5</b> - Feedback e relatórios - Sistema de avaliação onde os alunos deixam feedback, além de estatísticas (quantidade de monitorias realizadas, taxas de presença).
  
 ---
  
@@ -124,4 +124,5 @@ O brainstorm realizado permitiu estruturar de forma clara e criativa como funcio
 
  
  
+
 
