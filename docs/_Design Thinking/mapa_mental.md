@@ -19,15 +19,9 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
  
 ## Versão 1.0
  
-### Mapa mental 1
- 
-[![Mapa mental Entrevista]
- 
- 
-### Mapa mental 2
- 
-[![Mapa mental Brainstorm]
- 
+Mapa Mental: 
+<img width="1536" height="1024" alt="495921913-ceda6c1b-c58e-4872-b1fb-3205ff4fe056" src="https://github.com/user-attachments/assets/016f1d80-be67-47f1-a0ef-e1bbbb981aa1" />
+
 ## Conclusão
  
 <p align = "justify">
@@ -46,3 +40,4 @@ O mapa mental é uma ficha de estudos que ajuda a dar uma visão geral do tema, 
 | -- | -- | -- | -- |
 | dd/mm/yy | 1.0 | Criação do documento | xxx xxxx |
 | dd/mm/yy | 2.0 | Adicionado Mapa mental 2 | xxxx xxxx |
+
