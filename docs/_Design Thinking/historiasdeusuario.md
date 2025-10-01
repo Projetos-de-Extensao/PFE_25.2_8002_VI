@@ -35,6 +35,52 @@ A criação e o uso de histórias de usuário geralmente seguem esta metodologia
 
 ### História de Usuário
 
-* US001
-* US002
-* US003...
+**DIRETOR** 
+acesso a relatórios de utilização da plataforma, para acompanhar o engajamento de alunos e professores no programa de monitoria, sendo os criterios de aceitação:
+
+Relatório com número de acessos de alunos, professores e monitores.
+
+Gráficos de evolução do uso no mês.
+
+Possibilidade de exportar relatório em PDF.
+
+Listagem de monitores com carga horária cumprida.
+
+Feedback dos alunos disponível.
+
+Estatísticas de participação em atividades.
+
+**MONITOR** 
+quero cadastrar horários de atendimento, para que os alunos saibam quando podem ser auxiliados.
+
+Critérios de aceitação:
+
+Agenda configurável semanalmente.
+
+Notificação para alunos quando houver mudança de horário.
+
+Página de perfil exibindo os horários cadastrados.
+
+**PROFESSOR**
+
+ quero acompanhar quais alunos estão utilizando a monitoria, para identificar dificuldades recorrentes na disciplina.
+
+Critérios de aceitação:
+
+Relatório com lista de alunos atendidos.
+
+Registro das dúvidas mais frequentes.
+
+Integração com meu painel de turma.
+
+**ALUNO**
+
+quero acessar uma agenda organizada de monitoria, para escolher o melhor horário e já esclarecer minhas dúvidas de forma prática.
+
+Critérios de aceitação:
+
+Agenda sempre atualizada com os horários disponíveis dos monitores.
+
+Possibilidade de filtrar os atendimentos por disciplina e/ou monitor.
+
+Espaço interativo de perguntas e respostas, onde eu possa deixar dúvidas antecipadamente e visualizar respostas anteriores.
