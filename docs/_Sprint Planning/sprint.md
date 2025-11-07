@@ -12,9 +12,9 @@ title: Sprint Planning
 * **Presentes na reunião:** 
 
 |Nome|----|
-|-Lucas Holanda|
-|João Pedro Sampaio |
-|Lucas Carvalho |
+|-Lucas Holanda||202501494625|
+|João Pedro Sampaio||202501537448|
+|Lucas Carvalho||202410161046|
 | Gabriel Aguiar|
 | Rodrigo Mourão |
 
@@ -138,69 +138,67 @@ title: Sprint Planning
 
 # Sprint III 
 
-> 10/02/25 à 07/04/2025
+> 16/10/25 à 04/11/2025
 
 ## Planejamento de Interação
+Continuar todo o desenvolvimento. 
 
 * **Presentes na reunião:** 
 
-|Nome|----|
-|----|----|
-|XXXX Xxxxx Xxxxx|----|
-|XXXX Xxxxx Xxxxx|----|
+|Nome|---|
+|Lucas de C Vilela|
+|Lucas Holanda|
+|João Pedro Sampaio|
+|Gabriel Aguiar|
+|Rodrigo Mourão|
 
 ### Lista de Tarefas da Interação
 
 |Tarefa|Responsabilidade|
 |---|----|
 | Decidir o nome o projeto.|Todos|
-| Criar o repositório nos padrões (Organizar wiki).| xxxxx|
-| Criar issues no GitHub / ZenHub| xxxx|
+| Criar o repositório nos padrões (Organizar wiki).| Lucas de Carvalho Vilela|
+| Criar issues no GitHub / ZenHub|Lucas Holanda|
 | Estudar e escolher as metodologias.| Todos|
-| [Documento de visão](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+| [Documento de visão](https://github.com/xxx/xxx.md) |João Pedro Sampaio e Lucas Holanda|
+| Elaborar [5w2H](https://github.com/xxx/xxx.md) |Lucas Vilela e Lucas Holanda|
+| [Mapas Mentais](https://github.com/xxx/xxx.md) |Lucas Vilela e João Pedro Sampaio|
 | [Brainstorming](https://github.com/XXXx) |Todos|
-|[Entrevistas](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-|[Prototipação.](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+|[Entrevistas](https://github.com/xxx/xxx.md) |Rodrigo Mourão e Gabriel Aguiar|
+|[Prototipação.](https://github.com/xxx/xxx.md) |Rodrigo Mourão e Gabriel Aguiar|
 
 ### Sprint Retrospective/Review Meeting
-
-#### Dúvidas da Interação
-
-- 1
-- 2
-
-#### Riscos Encontrados
-
-- Nenhum: Plano de gerenciamento de riscos não implementado.
+-Precisamos aprender REACT e a criar novas páginas de protótipo, além do mkdocs 
 
 #### Pontos Positivos
 
-- 1
-- 2
+- Equipe comunicativa em grupos
+- Equipe dispsota a aprender
+- Alguns membros estão se dedicando bastante
 
 ![pontos positivos](../assets/Sprints/S1-positivos.png)
 
 #### Pontos Negativos
 
-- 1
-- 2
-- 3
+- Extrema dificuldade em reuniões com o grupo por completo (Dois membros do grupo trabalham) 
+- Falta de experiência nas ferramentas utilizadas
+- Falta de concordância entre a equipe
 
 ![pontos negativos](../assets/Sprints/S1-negativos.png)
 
 #### O que podemos melhorar?
 
-- Ter mais foco na reuniões para evitar o desperdício de tempo.
-- A equipe deve ter mais autonomia em relação à falta de membros.
-- Podemos utilizar algo ferramenta de timebox para maior efetividade nas reuniões, sugestão: [](https://timebox.cedrotech.com/)
+- Conseguir reunir toda a equipe ao mesmo tempo.
+- A equipe deve ter mais autonomia
+- 
+
 
 #### Ferramentas utilizadas
 
-- Reunião: [Hangouts](https://hangouts.google.com/)
-- Colheita dos pontos: [Mentimeter](https://www.mentimeter.com/)
-
+- Reunião: [Discord](https://discord.com/)
+- React
+- Java Script
+- HTMl
 # Sprint IV 
 
 > 10/02/25 à 07/04/2025
@@ -245,8 +243,7 @@ title: Sprint Planning
 - 1
 - 2
 
-![pontos positivos](../assets/Sprints/S1-positivos.png)
-
+ 
 #### Pontos Negativos
 
 - 1
