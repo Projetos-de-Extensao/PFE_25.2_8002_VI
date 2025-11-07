@@ -74,38 +74,39 @@ title: Sprint Planning
 
 # Sprint II 
 
-> 10/02/25 à 07/04/2025
+> 30/09/25 à 15/10/2025
 
 ## Planejamento de Interação
 
 * **Presentes na reunião:** 
 
 |Nome|----|
-|----|----|
-|XXXX Xxxxx Xxxxx|----|
-|XXXX Xxxxx Xxxxx|----|
+|-Lucas Holanda|
+|João Pedro Sampaio |
+|Lucas Carvalho |
+| Gabriel Aguiar|
+| Rodrigo Mourão |
 
 ### Lista de Tarefas da Interação
 
 |Tarefa|Responsabilidade|
 |---|----|
 | Decidir o nome o projeto.|Todos|
-| Criar o repositório nos padrões (Organizar wiki).| xxxxx|
-| Criar issues no GitHub / ZenHub| xxxx|
+| Criar o repositório nos padrões (Organizar wiki).|Lucas Carvalho|
+| Criar issues no GitHub / ZenHub|João Pedro Sampaio e Lucas Holanda|
 | Estudar e escolher as metodologias.| Todos|
-| [Documento de visão](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+| [Documento de visão](https://github.com/xxx/xxx.md) |Lucas Carvalho, João Pedro Sampaio e Lucas Holanda|
+| Elaborar [5w2H](https://github.com/xxx/xxx.md) |Gabriel Aguiar e Rodrigo Mourão|
+| [Mapas Mentais](https://github.com/xxx/xxx.md) |João Pedro Sampaio e Lucas Holanda|
 | [Brainstorming](https://github.com/XXXx) |Todos|
-|[Entrevistas](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-|[Prototipação.](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+|[Entrevistas](https://github.com/xxx/xxx.md) |Rodrigo Mourão|
+|[Prototipação.](https://github.com/xxx/xxx.md) |Gabriel Aguiar|
 
 ### Sprint Retrospective/Review Meeting
 
 #### Dúvidas da Interação
 
-- 1
-- 2
+- 1 Criação do protótipo em html
 
 #### Riscos Encontrados
 
@@ -113,24 +114,22 @@ title: Sprint Planning
 
 #### Pontos Positivos
 
-- 1
-- 2
+- 1 As reuniões foram produtivas
+- 2 Rápido solucionamento de questões
 
 ![pontos positivos](../assets/Sprints/S1-positivos.png)
 
 #### Pontos Negativos
 
-- 1
-- 2
-- 3
+- 1 Conflito de horário, poucas reuniões
+- 2 Demora para postagem do mkdocs
 
 ![pontos negativos](../assets/Sprints/S1-negativos.png)
 
 #### O que podemos melhorar?
 
 - Ter mais foco na reuniões para evitar o desperdício de tempo.
-- A equipe deve ter mais autonomia em relação à falta de membros.
-- Podemos utilizar algo ferramenta de timebox para maior efetividade nas reuniões, sugestão: [](https://timebox.cedrotech.com/)
+- Entender melhor sobre a divisão para o trabalho fluir mais facilmente
 
 #### Ferramentas utilizadas
 
