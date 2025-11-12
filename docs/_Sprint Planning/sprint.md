@@ -24,21 +24,19 @@ title: Sprint Planning
 |---|----|
 | Decidir o nome o projeto.|Todos|
 | Criar o repositório nos padrões (Organizar wiki).| Todos |
-| Criar issues no GitHub / ZenHub| João Pedro Sampaio |
 | Estudar e escolher as metodologias.| Todos|
-| [Documento de visão](https://github.com/xxx/xxx.md) |João Pedro Sampaio e Lucas Carvalho|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |Lucas Holanda e Gabriel Aguiar|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |Rodrigo Mourão|
-| [Brainstorming](https://github.com/XXXx) |Lucas Holanda e Gabriel Aguiar|
-|[Entrevistas](https://github.com/xxx/xxx.md) |Todos|
-|[Prototipação.](https://github.com/xxx/xxx.md) |Lucas Carvalho e Rodrigo Mourão|
+| Elaborar [5w2H] |Lucas Holanda e Gabriel Aguiar|
+| [Mapas Mentais] |Rodrigo Mourão|
+| [Brainstorming] |Lucas Holanda e João Pedro Sampaio|
+| [Entrevistas] |Todos|
+| [Prototipação.] |Lucas Carvalho e Rodrigo Mourão|
 
 ### Sprint Retrospective/Review Meeting
 
 #### Dúvidas da Interação
 
-- 1
-- 2
+- 1 Core do Projeto
+- 2 Utilização da plataforma
 
 #### Riscos Encontrados
 
@@ -81,9 +79,9 @@ title: Sprint Planning
 * **Presentes na reunião:** 
 
 |Nome|----|
-|-Lucas Holanda|
-|João Pedro Sampaio |
-|Lucas Carvalho |
+|-Lucas Holanda||202501494625|
+|João Pedro Sampaio||202501537448|
+|Lucas Carvalho||202410161046|
 | Gabriel Aguiar|
 | Rodrigo Mourão |
 
@@ -91,22 +89,18 @@ title: Sprint Planning
 
 |Tarefa|Responsabilidade|
 |---|----|
-| Decidir o nome o projeto.|Todos|
-| Criar o repositório nos padrões (Organizar wiki).|Lucas Carvalho|
-| Criar issues no GitHub / ZenHub|João Pedro Sampaio e Lucas Holanda|
-| Estudar e escolher as metodologias.| Todos|
-| [Documento de visão](https://github.com/xxx/xxx.md) |Lucas Carvalho, João Pedro Sampaio e Lucas Holanda|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |Gabriel Aguiar e Rodrigo Mourão|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |João Pedro Sampaio e Lucas Holanda|
-| [Brainstorming](https://github.com/XXXx) |Todos|
-|[Entrevistas](https://github.com/xxx/xxx.md) |Rodrigo Mourão|
-|[Prototipação.](https://github.com/xxx/xxx.md) |Gabriel Aguiar|
+| Finalizar a ideia centrar do projeto.|Lucas Holanda e João Pedro Sampaio|
+| Elaborar visualmente[5w2H] |Gabriel Aguiar e Rodrigo Mourão|
+| [Mapas Mentais] |João Pedro Sampaio e Lucas Holanda|
+| [Brainstorming] |Todos|
+|[Prototipação.] |Lucas Holanda e João Pedro Sampaio|
 
 ### Sprint Retrospective/Review Meeting
 
 #### Dúvidas da Interação
 
 - 1 Criação do protótipo em html
+- 2 Utilização da plataforma
 
 #### Riscos Encontrados
 
@@ -133,8 +127,8 @@ title: Sprint Planning
 
 #### Ferramentas utilizadas
 
-- Reunião: [Hangouts](https://hangouts.google.com/)
-- Colheita dos pontos: [Mentimeter](https://www.mentimeter.com/)
+- Reunião: Discord e Whatsapp
+- Colheita dos pontos: Mentimeter
 
 # Sprint III 
 
@@ -145,30 +139,24 @@ Continuar todo o desenvolvimento.
 
 * **Presentes na reunião:** 
 
-|Nome|---|
-|Lucas de C Vilela|
-|Lucas Holanda|
-|João Pedro Sampaio|
-|Gabriel Aguiar|
-|Rodrigo Mourão|
+|Nome|----|
+|-Lucas Holanda||202501494625|
+|João Pedro Sampaio||202501537448|
+|Lucas Carvalho||202410161046|
+| Gabriel Aguiar|
+| Rodrigo Mourão |
 
 ### Lista de Tarefas da Interação
 
 |Tarefa|Responsabilidade|
 |---|----|
-| Decidir o nome o projeto.|Todos|
-| Criar o repositório nos padrões (Organizar wiki).| Lucas de Carvalho Vilela|
-| Criar issues no GitHub / ZenHub|Lucas Holanda|
-| Estudar e escolher as metodologias.| Todos|
-| [Documento de visão](https://github.com/xxx/xxx.md) |João Pedro Sampaio e Lucas Holanda|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |Lucas Vilela e Lucas Holanda|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |Lucas Vilela e João Pedro Sampaio|
-| [Brainstorming](https://github.com/XXXx) |Todos|
-|[Entrevistas](https://github.com/xxx/xxx.md) |Rodrigo Mourão e Gabriel Aguiar|
-|[Prototipação.](https://github.com/xxx/xxx.md) |Rodrigo Mourão e Gabriel Aguiar|
+| Criar issues no GitHub / ZenHub|Lucas Holanda e João Pedro Sampaio|
+| Efetuar as metodologias.|Todos|
+| Elaborar na prática [5w2H] |João Pedro Sampaio e Lucas Holanda|
+| Criação de Designs iniciais |Lucas Holanda e João Pedro Sampaio|
 
 ### Sprint Retrospective/Review Meeting
--Precisamos aprender REACT e a criar novas páginas de protótipo, além do mkdocs 
+- Precisamos aprender REACT e a criar novas páginas de protótipo, além do mkdocs 
 
 #### Pontos Positivos
 
@@ -180,7 +168,7 @@ Continuar todo o desenvolvimento.
 
 #### Pontos Negativos
 
-- Extrema dificuldade em reuniões com o grupo por completo (Dois membros do grupo trabalham) 
+- Extrema dificuldade em reuniões com o grupo por completo (Apenas dois membros apareceram para reuniões) 
 - Falta de experiência nas ferramentas utilizadas
 - Falta de concordância entre a equipe
 
@@ -195,7 +183,7 @@ Continuar todo o desenvolvimento.
 
 #### Ferramentas utilizadas
 
-- Reunião: [Discord](https://discord.com/)
+- Reunião: [Discord]
 - React
 - Java Script
 - HTMl
@@ -207,34 +195,27 @@ Continuar todo o desenvolvimento.
 
 * **Presentes na reunião:** 
 
-|Nome|---|
-|Lucas de C Vilela|
-|Lucas Holanda|
-|João Pedro Sampaio|
-|Gabriel Aguiar|
-|Rodrigo Mourão|
-
+|Nome|----|
+|-Lucas Holanda||202501494625|
+|João Pedro Sampaio||202501537448|
+|Lucas Carvalho||202410161046|
+| Gabriel Aguiar|
+| Rodrigo Mourão |
 ### Lista de Tarefas da Interação
 
 |Tarefa|Responsabilidade|
 |---|----|
-| Decidir o nome o projeto.|Todos|
-| Criar o repositório nos padrões (Organizar wiki).| xxxxx|
-| Criar issues no GitHub / ZenHub| xxxx|
-| Estudar e escolher as metodologias.| Todos|
-| [Documento de visão](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Brainstorming](https://github.com/XXXx) |Todos|
-|[Entrevistas](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-|[Prototipação.](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+| Criar issues no GitHub / ZenHub|Lucas Holanda, João Pedro Sampaio e Lucas Carvalho|
+| Efetuar as metodologias.|Todos|
+| Elaborar na prática [5w2H] |Lucas Carvalho e Lucas Holanda|
+| Criação de Designs iniciais |Lucas Holanda e João Pedro Sampaio|
 
 ### Sprint Retrospective/Review Meeting
 
 #### Dúvidas da Interação
 
-- 1
-- 2
+- 1 Como utilizar o github no vscode
+  
 
 #### Riscos Encontrados
 
@@ -242,15 +223,11 @@ Continuar todo o desenvolvimento.
 
 #### Pontos Positivos
 
-- 1
-- 2
-
+- 1 Reuniões produtivas.
  
 #### Pontos Negativos
 
-- 1
-- 2
-- 3
+- 1 Extrema dificulade em reunir o grupo, 2 integrantes com grandes dificuldades de aparecer nas reuniões.
 
 ![pontos negativos](../assets/Sprints/S1-negativos.png)
 
@@ -258,12 +235,10 @@ Continuar todo o desenvolvimento.
 
 - Ter mais foco na reuniões para evitar o desperdício de tempo.
 - A equipe deve ter mais autonomia em relação à falta de membros.
-- Podemos utilizar algo ferramenta de timebox para maior efetividade nas reuniões, sugestão: [](https://timebox.cedrotech.com/)
 
 #### Ferramentas utilizadas
 
-- Reunião: [Hangouts](https://hangouts.google.com/)
-- Colheita dos pontos: [Mentimeter](https://www.mentimeter.com/)
+- Reunião: Discord
 
 # Sprint V 
 
