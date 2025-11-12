@@ -23,7 +23,6 @@ Iniciamos o projeto através dos levantamentos iniciais da equipe, após discuss
 +--------------------------------------+
 | LOGIN |
 +--------------------------------------+
-[Logo do App]
 
 Usuário: []
 Senha: []
