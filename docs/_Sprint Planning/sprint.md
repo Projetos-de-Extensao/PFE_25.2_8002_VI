@@ -201,16 +201,18 @@ Continuar todo o desenvolvimento.
 - HTMl
 # Sprint IV 
 
-> 10/02/25 à 07/04/2025
+> 05/11/25 à 11/11/2025
 
 ## Planejamento de Interação
 
 * **Presentes na reunião:** 
 
-|Nome|----|
-|----|----|
-|XXXX Xxxxx Xxxxx|----|
-|XXXX Xxxxx Xxxxx|----|
+|Nome|---|
+|Lucas de C Vilela|
+|Lucas Holanda|
+|João Pedro Sampaio|
+|Gabriel Aguiar|
+|Rodrigo Mourão|
 
 ### Lista de Tarefas da Interação
 
