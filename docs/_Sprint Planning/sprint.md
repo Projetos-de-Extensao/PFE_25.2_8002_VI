@@ -83,14 +83,13 @@ title: Sprint Planning
 |João Pedro Sampaio||202501537448|
 |Lucas Carvalho||202410161046|
 | Gabriel Aguiar|
-| Rodrigo Mourão |
 
 ### Lista de Tarefas da Interação
 
 |Tarefa|Responsabilidade|
 |---|----|
 | Finalizar a ideia centrar do projeto.|Lucas Holanda e João Pedro Sampaio|
-| Elaborar visualmente[5w2H] |Gabriel Aguiar e Rodrigo Mourão|
+| Elaborar visualmente[5w2H] |Gabriel Aguiar|
 | [Mapas Mentais] |João Pedro Sampaio e Lucas Holanda|
 | [Brainstorming] |Todos|
 |[Prototipação.] |Lucas Holanda e João Pedro Sampaio|
@@ -144,7 +143,6 @@ Continuar todo o desenvolvimento.
 |João Pedro Sampaio||202501537448|
 |Lucas Carvalho||202410161046|
 | Gabriel Aguiar|
-| Rodrigo Mourão |
 
 ### Lista de Tarefas da Interação
 
