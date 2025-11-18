@@ -204,9 +204,9 @@ Continuar todo o desenvolvimento.
 |Tarefa|Responsabilidade|
 |---|----|
 | Criar issues no GitHub / ZenHub|Lucas Holanda, João Pedro Sampaio e Lucas Carvalho|
-| Efetuar as metodologias.|Todos|
-| Elaborar na prática [5w2H] |Lucas Carvalho e Lucas Holanda|
-| Criação de Designs iniciais |Lucas Holanda e João Pedro Sampaio|
+| Efetuar as metodologias.|Gabriel Aguiar e Lucas Caravalho|
+| utilizar react |João Pedro Sampaio e Lucas Holanda|
+| Criação de Designs FINAIS NO SITE |Lucas Holanda e João Pedro Sampaio|
 
 ### Sprint Retrospective/Review Meeting
 
@@ -226,6 +226,7 @@ Continuar todo o desenvolvimento.
 #### Pontos Negativos
 
 - 1 Extrema dificulade em reunir o grupo, 2 integrantes com grandes dificuldades de aparecer nas reuniões.
+UM integrante foi reprovado por falta 
 
 ![pontos negativos](../assets/Sprints/S1-negativos.png)
 
