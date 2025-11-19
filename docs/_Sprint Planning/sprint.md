@@ -252,8 +252,11 @@ UM integrante foi reprovado por falta
 
 |Tarefa|Responsabilidade|
 | Integrar todas as ideias em código no React. |João Pedro Sampaio|
+
 | Fazer a integração da API local no site.|João Pedro Sampaio|
+
 | Criar o slide para melhor compreensão do projeto. |Lucas Holanda e Gabriel Aguiar|
+
 | Revisar os documentos e alinhar os projetos.|Lucas Carvalho|
 
 ### Sprint Retrospective/Review Meeting
