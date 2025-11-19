@@ -14,9 +14,6 @@ title: Sprint Planning
 |Nome|----|
 |-Lucas Holanda||202501494625|
 |João Pedro Sampaio||202501537448|
-|Lucas Carvalho||202410161046|
-| Gabriel Aguiar|
-| Rodrigo Mourão |
 
 ### Lista de Tarefas da Interação
 
@@ -72,7 +69,7 @@ title: Sprint Planning
 
 # Sprint II 
 
-> 30/09/25 à 15/10/2025
+> 30/09/25 à 10/10/2025
 
 ## Planejamento de Interação
 
@@ -81,8 +78,6 @@ title: Sprint Planning
 |Nome|----|
 |-Lucas Holanda||202501494625|
 |João Pedro Sampaio||202501537448|
-|Lucas Carvalho||202410161046|
-| Gabriel Aguiar|
 
 ### Lista de Tarefas da Interação
 
@@ -131,7 +126,7 @@ title: Sprint Planning
 
 # Sprint III 
 
-> 16/10/25 à 04/11/2025
+> 11/10/25 à 23/10/2025
 
 ## Planejamento de Interação
 Continuar todo o desenvolvimento. 
@@ -142,7 +137,6 @@ Continuar todo o desenvolvimento.
 |-Lucas Holanda||202501494625|
 |João Pedro Sampaio||202501537448|
 |Lucas Carvalho||202410161046|
-| Gabriel Aguiar|
 
 ### Lista de Tarefas da Interação
 
@@ -185,9 +179,11 @@ Continuar todo o desenvolvimento.
 - React
 - Java Script
 - HTMl
+
+  
 # Sprint IV 
 
-> 05/11/25 à 11/11/2025
+> 23/10/25 à 04/11/2025
 
 ## Planejamento de Interação
 
@@ -198,7 +194,6 @@ Continuar todo o desenvolvimento.
 |João Pedro Sampaio||202501537448|
 |Lucas Carvalho||202410161046|
 | Gabriel Aguiar|
-| Rodrigo Mourão |
 ### Lista de Tarefas da Interação
 
 |Tarefa|Responsabilidade|
@@ -241,38 +236,32 @@ UM integrante foi reprovado por falta
 
 # Sprint V 
 
-> 10/02/25 à 07/04/2025
+> 05/11/25 à 17/11/2025
 
 ## Planejamento de Interação
 
 * **Presentes na reunião:** 
 
 |Nome|----|
-|----|----|
-|XXXX Xxxxx Xxxxx|----|
-|XXXX Xxxxx Xxxxx|----|
+|-Lucas Holanda||202501494625|
+|João Pedro Sampaio||202501537448|
+|Lucas Carvalho||202410161046|
+| Gabriel Aguiar|
 
 ### Lista de Tarefas da Interação
 
 |Tarefa|Responsabilidade|
-|---|----|
-| Decidir o nome o projeto.|Todos|
-| Criar o repositório nos padrões (Organizar wiki).| xxxxx|
-| Criar issues no GitHub / ZenHub| xxxx|
-| Estudar e escolher as metodologias.| Todos|
-| [Documento de visão](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| Elaborar [5w2H](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Mapas Mentais](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-| [Brainstorming](https://github.com/XXXx) |Todos|
-|[Entrevistas](https://github.com/xxx/xxx.md) |XXX e XXXXX|
-|[Prototipação.](https://github.com/xxx/xxx.md) |XXX e XXXXX|
+| Integrar todas as ideias em código no React. |João Pedro Sampaio|
+| Fazer a integração da API local no site.|João Pedro Sampaio|
+| Criar o slide para melhor compreensão do projeto. |Lucas Holanda e Gabriel Aguiar|
+| Revisar os documentos e alinhar os projetos.|Lucas Carvalho|
 
 ### Sprint Retrospective/Review Meeting
 
 #### Dúvidas da Interação
 
-- 1
-- 2
+- 1 Integração em React (a primeiro momento)
+- 2 Integração da API (a primeiro momento)
 
 #### Riscos Encontrados
 
@@ -280,26 +269,23 @@ UM integrante foi reprovado por falta
 
 #### Pontos Positivos
 
-- 1
-- 2
+- 1 Resultado final agradável
+- 2 Dentro das espectativas criadas
 
 ![pontos positivos](../assets/Sprints/S1-positivos.png)
 
 #### Pontos Negativos
 
-- 1
-- 2
-- 3
+- 1 Problemas severos na divisão do trabalho, sobrecarregando dois integrantes
+- 2 Auxílio do resto do grupo apenas nas vésperas.
 
 ![pontos negativos](../assets/Sprints/S1-negativos.png)
 
 #### O que podemos melhorar?
 
-- Ter mais foco na reuniões para evitar o desperdício de tempo.
-- A equipe deve ter mais autonomia em relação à falta de membros.
-- Podemos utilizar algo ferramenta de timebox para maior efetividade nas reuniões, sugestão: [](https://timebox.cedrotech.com/)
+- Presença de membros no trabalho
 
 #### Ferramentas utilizadas
 
-- Reunião: [Hangouts](https://hangouts.google.com/)
-- Colheita dos pontos: [Mentimeter](https://www.mentimeter.com/)
+- Reunião: Discord
+- Realização: VSCode
