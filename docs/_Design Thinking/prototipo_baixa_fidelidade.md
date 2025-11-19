@@ -1,210 +1,65 @@
----
-id: prototipo
-title: Protótipo
----
+💻 Protótipo de Baixa Fidelidade: IBMEc Monitorias
+1. Página Inicial (Rota: / ou /home)
+A página inicial atua como um dashboard simples, mostrando uma saudação e os agendamentos mais recentes do usuário logado.
+
+Cabeçalho/Navegação,"Nome do site (IBMEc Monitorias) no canto superior esquerdo. Links no canto superior direito: Casa, Agendamento, Login (ou Logout se o usuário estiver logado)."
+Título Central - Bem-vindo ao IBMEc Monitorias
+Subtítulo/Descrição - Plataforma para agendar monitorias com facilidade
+Seção - Últimos agendamentos
+Lista de Agendamentos - [Agendamento 1]
+,- Dados: [Data do Agendamento]
+,- Aluno: [Nome do Aluno/Deixar vazio ou ocultar se não for relevante para a visualização do aluno]
+,- [ Botão: Remover ] (à direita do agendamento)
+   -  ,[Agendamento 2]
+,- Dados: [Data do Agendamento]
+,- Aluno: [Nome do Aluno]
+,- [ Botão: Remover ] (à direita do agendamento)
+------------------------------------------------------------------------------------------------------------------
+
+2. Página de Login (Rota: /login)
+
+Cabeçalho/Navegação,"Links: Casa, Agendamento, Login."
+Título Central,Login
+Campo de Entrada - Email: [ ]
+Campo de Entrada - Senha: [ ]
+Botão Principal - (Entrar) [ Botão ]
+Link/Botão - Criar conta (Link para a página de cadastro)
+-----------------------------------------------------------------------------------------------------------------
+
+3. Página de Agendamento (Rota: /scheduler)
+O hub principal para ver os monitores, suas especialidades e agendar horários.
+
+Cabeçalho/Navegação - "Links: Casa, Agendamento, Login (ou Logout)."
+Título Principal - Agendamento de Monitorias
+Seção 1: Filtro/Disciplinas, Matérias
+,* Matemática
+,* Física
+,* Química
+Seção 2: Monitores - Lista de perfis de monitores em um grid ou lista:
+,Prof. Ana Souza
+,- Especialista em cálculo e álgebra.
+,- [ Botão: Ver perfil ]
+,- [ Botão: Lista de exercícios ]
+,- [ Botão: Agendar ]
+,Prof. Bruno Lima
+,- Aproximação intuitiva da matemática e física.
+,- [ Botão: Ver perfil ]
+,- [ Botão: Lista de exercícios ]
+,- [ Botão: Agendar ]
+,"(Repetir bloco para todos os monitores: Carla Reis, Diego Alves, Elisa Moraes...)"
+Seção 3: Calendário, Calendário de disponibilidade
+Lista de datas de disponibilidade (ex: Prof. Ana Souza: 2025-11-20 » 2025-11-23)
+---------------------------------------------------------------------------------------------------------------
+
+📄 Protótipo de Baixa Fidelidade: IBMEc Monitorias - Criação de Conta).
+
+Cabeçalho/Navegação,"Links: Casa, Agendamento, Login (ou Logout)."
+Título Principal - Criar Conta (ou Cadastro de Usuário)
+Campo de Entrada - Nome Completo: [ ]
+Campo de Entrada - Email: [ ] (Deve ser um endereço de email válido)
+Campo de Entrada - "Senha: [ ] (Recomendação: mostrar requisitos de segurança, ex: 8+ caracteres)"
+Campo de Entrada - Confirmar Senha: [ ] (Para garantir que a senha foi digitada corretamente)
+Campo de Seleção - "Tipo de Usuário: [ ] (Opções: Aluno, Monitor/Professor) - Este campo é opcional, mas útil para diferenciar permissões."
+Botão Principal - (Cadastrar) [ Botão ]
+Link - Já tem uma conta? Entrar (Link de volta para a página de Login)
 
-## Introdução
-A construção do protótipo de baixa fidelidade auxilia a equipe de desenvolvimento a encontrar um nível de detalhes abrangentes, extrair funcionalidades, testar usabilidade, e também fornece uma base para o gerenciamento do projeto pois com o protótipo é possível realizar estimativas de quanto tempo será necessário desempenhar em cada funcionalidade.
-
----
-
-## Metodologia
-Iniciamos o projeto através dos levantamentos iniciais da equipe, após discussões a ferramenta Figma foi selecionada para produzir o protótipo de alta fidelidade com auxílio do Material Design Color Tool.
-
----
-
-## Protótipo de baixa fidelidade
-
-### Versão 1.0
-
----
-
-###  Tela Login
-+--------------------------------------+
-| LOGIN |
-+--------------------------------------+
-
-Usuário: []
-Senha: []
-
-(Entrar) [ Botão ]
-[Esqueceu a senha?]
-
-[Cadastrar-se]
-+--------------------------------------+
-
-
-
----
-
-#  Tela Cadastro 1
-+--------------------------------------+
-| CADASTRO (1/2) |
-+--------------------------------------+
-Nome: []
-E-mail: []
-Senha: []
-Confirmar: []
-
-(Próximo) [ Botão ]
-+--------------------------------------+
-
-
----
-
-#  Tela Cadastro 2
-+--------------------------------------+
-| CADASTRO (2/2) |
-+--------------------------------------+
-Data Nasc.: [//****]
-Telefone: [(__) -]
-Curso: [___________________]
-Tipo de usuário:
-( ) Aluno ( ) Monitor
-( ) Professor ( ) Coord.
-
-(Concluir) [ Botão ]
-+--------------------------------------+
-
-
----
-
-#  Tela Esqueceu Senha
-+--------------------------------------+
-| ESQUECEU A SENHA? |
-+--------------------------------------+
-Digite seu e-mail para redefinir:
-
-[__________________________]
-
-(Enviar link) [ Botão ]
-+--------------------------------------+
-
-
----
-
-#  Tela Feed (Monitorias disponíveis)
-+--------------------------------------+
-| FEED DE MONITORIAS |
-+--------------------------------------+
-[Barra superior com logo + menu]
-
-Card Monitoria 1:
-Disciplina: Cálculo I
-Monitor: João Silva
-Horário: Seg/Qua 14h
-[Inscrever-se]
-
-Card Monitoria 2:
-Disciplina: Programação
-Monitor: Ana Souza
-Horário: Ter/Qui 16h
-[Inscrever-se]
-
-(... outras monitorias ...)
-+--------------------------------------+
-
-
-
----
-
-###  Tela Feed + Configurações
-+--------------------------------------+
-| FEED + MENU CONFIGURAÇÕES |
-+--------------------------------------+
-[Ícone Config ⚙️ no canto superior]
-
-Listagem das monitorias (igual ao Feed)
-+--------------------------------------+
-
-
-
----
-
-###  Tela Perfil
-+--------------------------------------+
-| PERFIL |
-+--------------------------------------+
-[Foto/Avatar]
-
-Nome: Fulano da Silva
-E-mail: fulano@email.com
-Tipo de usuário: Aluno
-
-(Editar perfil) [ Botão ]
-(Minhas monitorias) [ Botão ]
-(Sair) [ Botão ]
-+--------------------------------------+
-
-
-
----
-
-###  Tela Cadastrar Monitoria 
-
-**Etapa 1**
-+--------------------------------------+
-| CADASTRAR MONITORIA (1/2) |
-+--------------------------------------+
-Disciplina: []
-Descrição: []
-
-(Próximo) [ Botão ]
-+--------------------------------------+
-
-
-**Etapa 2**
-+--------------------------------------+
-| CADASTRAR MONITORIA (2/2) |
-+--------------------------------------+
-Horário: [Dia/Semana + Hora]
-Local: [Sala / Online Link]
-
-(Concluir) [ Botão ]
-+--------------------------------------+
-
-
-
----
-
-#  Tela Minhas Monitorias
-+--------------------------------------+
-| MINHAS MONITORIAS |
-+--------------------------------------+
-[Listagem das monitorias em que:
-
-o aluno está inscrito
-
-o monitor cadastrou
-
-Com botões: [Editar] [Excluir] ]
-+--------------------------------------+
-
-
-
----
-
-#  Tela Inscrição em Monitoria
-+--------------------------------------+
-| INSCREVER-SE NA MONITORIA |
-+--------------------------------------+
-Disciplina: Cálculo I
-Monitor: João Silva
-Horário: Seg/Qua 14h
-
-Nome do aluno: [___________]
-
-(Confirmar inscrição) [ Botão ]
-+--------------------------------------+
-
-
-
-
----
-
-# Conclusão
-O aplicativo de acompanhamento de monitorias na faculdade estabelece uma base estrutural para o seu desenvolvimento. Ao priorizar a disposição intuitiva dos elementos, as funcionalidades essenciais e os fluxos de interação adaptados para os perfis de aluno, professor, monitor e coordenador, os requisitos fundamentais do sistema foram mapeados de maneira clara, lógica e funcional.  
-
-As telas propostas, incluindo login, cadastro, feed de monitorias, perfil e gerenciamento de monitorias, refletem as necessidades específicas de cada tipo de usuário, promovendo uma experiência acessível e eficiente.  
-
-A definição de permissões por função reforça a segurança e a organização, garantindo que o sistema atenda a
