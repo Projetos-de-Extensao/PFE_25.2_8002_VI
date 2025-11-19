@@ -36,7 +36,25 @@ A tela de autenticação para o acesso à plataforma.
 
 ---
 
-## 3. Página de Agendamento (Rota: `/scheduler`)
+## 3. Criação de Conta (Rota: `/register`)
+
+A tela para novos usuários se cadastrarem na plataforma.
+
+| Elemento | Descrição |
+| :--- | :--- |
+| **Cabeçalho/Navegação** | Links: **Casa**, **Agendamento**, **Login** (ou **Logout**). |
+| **Título Principal** | `Criar Conta` (ou `Cadastro de Usuário`) |
+| **Campo de Entrada** | `Nome Completo: [ ]` |
+| **Campo de Entrada** | `Email: [ ]` |
+| **Campo de Entrada** | `Senha: [ ]` |
+| **Campo de Entrada** | `Confirmar Senha: [ ]` |
+| **Campo de Seleção** | `Tipo de Usuário: [ ]` (Opções: Aluno, Monitor/Professor) |
+| **Botão Principal** | `(Cadastrar) [ Botão ]` |
+| **Link** | `Já tem uma conta? Entrar` (Link de volta para a página de Login) |
+
+---
+
+## 4. Página de Agendamento (Rota: `/scheduler`)
 
 O *hub* principal para ver os monitores, suas especialidades e agendar horários.
 
@@ -64,18 +82,32 @@ O *hub* principal para ver os monitores, suas especialidades e agendar horários
 
 ---
 
-## 4. Criação de Conta (Rota: `/register`)
+## 5. Meu Perfil (Rota: `/perfil`)
 
-A tela para novos usuários se cadastrarem na plataforma.
+Tela onde o usuário pode visualizar e gerenciar seus dados pessoais e de conta.
 
 | Elemento | Descrição |
 | :--- | :--- |
-| **Cabeçalho/Navegação** | Links: **Casa**, **Agendamento**, **Login** (ou **Logout**). |
-| **Título Principal** | `Criar Conta` (ou `Cadastro de Usuário`) |
-| **Campo de Entrada** | `Nome Completo: [ ]` |
-| **Campo de Entrada** | `Email: [ ]` |
-| **Campo de Entrada** | `Senha: [ ]` |
-| **Campo de Entrada** | `Confirmar Senha: [ ]` |
-| **Campo de Seleção** | `Tipo de Usuário: [ ]` (Opções: Aluno, Monitor/Professor) |
-| **Botão Principal** | `(Cadastrar) [ Botão ]` |
-| **Link** | `Já tem uma conta? Entrar` (Link de volta para a página de Login) |
+| **Cabeçalho/Navegação** | Links visíveis após o login: **Casa**, **Agendamento**, **Meu Perfil**, **Painel do Monitor** (se for Monitor), **Sair**. |
+| **Título Principal** | `Meu Perfil` |
+| **Informação** | **Nome:** [Nome do Usuário logado] |
+| **Informação** | **E-mail:** [Email do Usuário logado] |
+| **Informação** | **Papel:** [Monitor/Aluno] |
+| **Botão** | [ Botão: **Editar Dados** ] (Cor primária/azul) |
+| **Botão** | [ Botão: **Excluir Conta** ] (Cor de alerta/vermelho) |
+
+---
+
+## 6. Painel do Monitor (Rota: `/monitor`)
+
+A tela específica para o usuário com o papel de Monitor/Professor, mostrando seus agendamentos e informações relevantes.
+
+| Elemento | Descrição |
+| :--- | :--- |
+| **Cabeçalho/Navegação** | Links visíveis após o login: **Casa**, **Agendamento**, **Meu Perfil**, **Painel do Monitor**, **Sair**. |
+| **Título Principal** | `Painel do Monitor` |
+| **Saudação** | `Olá, [Nome do Monitor], estes são os alunos agendados para sua matéria.` |
+| **Lista de Agendamentos** | Exibe a lista de agendamentos. |
+| **Cenário Vazio** | `Nenhum aluno agendado ainda` (Exibido se a lista de agendamentos estiver vazia) |
+| **Ação/Funcionalidade** | *Sugestão:* [ Botão: **Gerenciar Disponibilidade** ] (Para o Monitor atualizar o calendário de `/scheduler`) |
+| **Ação/Funcionalidade** | *Sugestão:* [ Botão: **Ver Lista de Exercícios** ] (Para o Monitor gerenciar o conteúdo) |
