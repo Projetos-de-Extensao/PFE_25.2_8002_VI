@@ -1,0 +1,136 @@
+{
+  "subjects": [
+    {
+      "id": "1",
+      "name": "Matemática"
+    },
+    {
+      "id": "2",
+      "name": "Física"
+    },
+    {
+      "id": "3",
+      "name": "Química"
+    }
+  ],
+  "professors": [
+    {
+      "id": "1",
+      "name": "Prof. Ana Souza",
+      "subjectId": 1,
+      "bio": "Especialista em cálculo e álgebra.",
+      "available": [
+        "2025-11-20",
+        "2025-11-22",
+        "2025-11-25"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Prof. Bruno Lima",
+      "subjectId": 1,
+      "bio": "Aproximação intuitiva da matemática.",
+      "available": [
+        "2025-11-21",
+        "2025-11-22"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Prof. Carla Reis",
+      "subjectId": 2,
+      "bio": "Física para vestibulares.",
+      "available": [
+        "2025-11-19",
+        "2025-11-23"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Prof. Diego Alves",
+      "subjectId": 2,
+      "bio": "Mecânica e termodinâmica.",
+      "available": [
+        "2025-11-20",
+        "2025-11-24"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Prof. Elisa Moraes",
+      "subjectId": 3,
+      "bio": "Química orgânica didática.",
+      "available": [
+        "2025-11-21",
+        "2025-11-25"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "1",
+      "professorId": 1,
+      "title": "Lista 1 - Álgebra",
+      "fileName": "lista1_algebra.pdf",
+      "content": "Conteúdo dummy da lista 1"
+    },
+    {
+      "id": "2",
+      "professorId": 1,
+      "title": "Lista 2 - Cálculo",
+      "fileName": "lista2_calculo.pdf",
+      "content": "Conteúdo dummy da lista 2"
+    },
+    {
+      "id": "3",
+      "professorId": 3,
+      "title": "Exercícios - Cinemática",
+      "fileName": "cinematica.pdf",
+      "content": "Conteúdo dummy cinematica"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "df35",
+      "professorId": "2",
+      "date": "2025-11-21"
+    },
+    {
+      "id": "e39d",
+      "professorId": "3",
+      "date": "2025-11-19"
+    }
+  ],
+  "users": [
+    {
+      "id": "9c14",
+      "name": "joao sampaio",
+      "email": "dsda@gmail.com",
+      "password": "dasda"
+    },
+    {
+      "id": "2908",
+      "name": "aaaa",
+      "email": "aa@gmail.com",
+      "password": "aa"
+    },
+    {
+      "id": "0870",
+      "name": "joao",
+      "email": "jpgarruth@gmail.com",
+      "password": "aaaa"
+    },
+    {
+      "id": "9597",
+      "name": "john carvalho",
+      "email": "202501537448@alunos.ibmec.edu.br",
+      "password": "aaaa"
+    },
+    {
+      "id": "c224",
+      "name": "aaaaa",
+      "email": "sasupaio3@gmail.com",
+      "password": "aa"
+    }
+  ]
+}
